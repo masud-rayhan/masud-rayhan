@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </a>
   
 <a href="mailto:masudrayhan@yahoo.com" target="_blank">
-<img src=https://img.shields.io/badge/yahoo-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/yahoo-D14836?&style=for-the-badge&logo=yahoo&logoColor=white alt=yahoo style="margin-bottom: 5px;" />
 </a>
 </div>
 
