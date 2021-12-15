@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 </a>
   
 <a href="mailto:masudrayhan@yahoo.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/yahoo-D14836?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Moniruzzaman-Md&&style=flat&color=6600cc" align="center" />
+<img src="https://komarev.com/ghpvc/?username=masud-rayhan&&style=flat&color=6600cc" align="center" />
 </div>
